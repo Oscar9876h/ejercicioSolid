@@ -6,7 +6,7 @@ El objetivo no es “reescribirlo todo”, sino **identificar el principio vulne
 
 ## Profesor
 
-- [![GitHub](https://img.shields.io/badge/GitHub-@sambrista-181717?style=for-the-badge&logo=github)](https://github.com/sambrista) Alfonso Jiménez Vílchez
+- **Alfonso Jiménez Vílchez** - [@sambrista](https://github.com/sambrista)
 
 ## Alumnos
 
